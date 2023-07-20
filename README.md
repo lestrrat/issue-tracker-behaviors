@@ -190,3 +190,13 @@ User files a bug, maintainers asks for minimal reproduction test.
 User does _NOT_ provide test case, instead opts to write out an entire short story on what he belives is happening, starting at his childhood, a mysterious problem that he encountered and the wonderous half-human, half-lizard being that helped his way through trying to fix the problem, a story full of allegory, but zero code.
 
 Maintainers still have no idea what the bug really is, because they don't understand what the user did.
+
+## The Attenion Seeker
+
+User files a bug. It seems very urget, it is easy to tell that the user is very distressed by the tone in the issue text, who knows, perhaps someone's life depends on it.
+
+So you naturally start acting as soon as you see the issue, and start engaging in conversation: you ask for more information, you provide a couple of guesses, and explain some background on what that particular feature was about.
+
+The user replies, maybe once or twice, and they say "I'll let you know". Then a week passes. Then a month. Then a year. You never hear from them again, nor does the issue ever get closed. EVER.
+
+(hint: use [tools to close inactive issues](https://github.com/marketplace/actions/close-stale-issues))
